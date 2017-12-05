@@ -6,7 +6,7 @@ email: mengzzzw@163.com
 description: "Cool"
 keyword: "Meng"
 url: " https://mengzhenwei1993.github.io/Myblog/"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl:                           # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
