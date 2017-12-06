@@ -12,7 +12,7 @@ baseurl:                           # for example, '/blog' if your blog hosted on
 
 # SNS settings
 RSS: false
-#weibo_username:     WassupWassup
+weibo_username:     mengzhenwei
 #zhihu_username:     huxpro
 github_username:    mengzhenwei1993
 #twitter_username:   huxpro
@@ -48,7 +48,7 @@ kramdown:
 
 
 # Disqus settings
-#disqus_username: hux
+disqus_username: mengzhenwei1993
 
 # Netease setttings
 #netease_comment: false
@@ -67,8 +67,8 @@ kramdown:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "每个人都有自己的生活"
+sidebar-avatar: /img/avatar-meng.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
